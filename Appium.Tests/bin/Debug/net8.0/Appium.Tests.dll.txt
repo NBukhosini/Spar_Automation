@@ -1,0 +1,8 @@
+HomePageTest.Tests.HomePageTest.CheckforHomescreenObjects
+HomePageTest.Tests.HomePageTest.Favouritesbuttuncheck
+HomePageTest.Tests.HomePageTest.WhenAppLoadsThenGotoHome
+HomePageTest.Tests.ProfileTest.CheckProfilePageOptions
+HomePageTest.Tests.ProfileTest.EmptyFirstnameTxtbox
+HomePageTest.Tests.ProfileTest.FirstnameInvalidCharactors
+HomePageTest.Tests.ProfileTest.OpenProfileDetails
+HomePageTest.Tests.ProfileTest.WhenAppLoadsThenGotoHome
